@@ -12,3 +12,5 @@
     $mysqli->set_charset('utf8mb4');
     session_start();
 ?>
+
+<!-- mysqldump -u root -p pelaporan > c:\xampp\htdocs\myphp\latihanlombaunila\pelaporan\db\pelaporan.sql -->
